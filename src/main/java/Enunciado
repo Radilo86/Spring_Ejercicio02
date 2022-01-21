@@ -1,0 +1,14 @@
+********** Ejercicio 2 **********
+
+Crear la clase radilo.NotificationService, con un método que imprima un saludo.
+
+Crear una clase radilo.UserService que tenga un atributo de clase radilo.NotificationService.
+
+Utilizar la anotación @Component en cada clase.
+
+Habilitar el escaneo de clases en el archivo beans.xml
+
+Desde el método main, probar a obtener el bean radilo.UserService y ejecutar el método imprimirSaludo que tiene
+asociado el atributo de tipo radilo.NotificationService. De forma similar a la realizada en clase.
+
+Documentacion --> https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-annotation-config
